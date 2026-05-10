@@ -1,8 +1,15 @@
 # Customer Churn Prediction using ANN
 
 This project predicts customer churn using an Artificial Neural Network (ANN) built with TensorFlow and deployed using Streamlit.
+---
 
-## 🚀 Features
+## Live Demo
+
+https://customer-churn-analysis-rmq2qoghctbzqzvhajxemy.streamlit.app/
+
+---
+
+## Features
 
 - Customer churn prediction
 - ANN model using TensorFlow/Keras
@@ -13,7 +20,7 @@ This project predicts customer churn using an Artificial Neural Network (ANN) bu
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
@@ -24,7 +31,7 @@ This project predicts customer churn using an Artificial Neural Network (ANN) bu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 customer-churn-analysis/
@@ -40,7 +47,7 @@ customer-churn-analysis/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -64,7 +71,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Streamlit App
+## Run the Streamlit App
 
 ```bash
 streamlit run app.py
@@ -72,7 +79,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Model Workflow
+## Model Workflow
 
 ```text
 Data Collection
@@ -90,13 +97,6 @@ Model Evaluation
 Deployment with Streamlit
 ```
 
----
-
-## 📌 Future Improvements
-
-- Deploy on Streamlit Cloud
-- Improve UI/UX
-- Add model explainability
 
 ---
 
